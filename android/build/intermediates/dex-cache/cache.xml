@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="71e22619df25643022a7f7281461ef5e926141be">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.3_126e9c0bcdd409f5e9c2185113094b23ade85d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/WrptechReactNative/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/WrptechReactNative-react-native-vector-icons-unspecified_36cf7e595153d07fc89ee6c3547a54c0aa9b45d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_65e908745ebc462f86374e627b0665ad9c1266b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_89d511498dde19d016cd2f1e16a42830feb2f07c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_80d4a466cd84e6aa583796beda4feeb7e5750f71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_392936964e8ba2bba2d232f0d5af057abc6eee54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_bbfd22e1c3ab51b44da51f8ab80c653d97a7fb70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_323a0ea1dd60b4da21fc30a020f5dec6ec261acd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_9ce4f5bae1313a73458e329b6990a9313dca9967.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_0f5cd1570c23040ea9bc514c17e887ac6572574b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0bdfa0d9859314af311a1a714c2ee6937ac59a11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_89ea25490902baa98d9e19ad7c11dd9d0570a734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_9ac6081db948f75f11b00f7cfac7dc4285d3f66f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_1fa358edfb14243c3cdac6a2bcbb7bb92d872dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_58fb3ca8c002cbb140bc13fb8f350d2372f85b3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_b5b749bfc95717c3a231a4e3558593c078d6c091.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_ed3a2e9eca3a902f231d25701413c43117738354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_01c4fef8a5a2ba2615890eee786e7196db129f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_ece3251b1eee4a61351ec21a55000c94fd86d8f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_e7e3f94a38af14fdbd0afa706a3794b6d455f643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ad258c5acc7b30151b81996de2bbcc3225919da0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/widaehan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/widaehan/react_projects/wrptech-reactnative/wrptech-reactnative/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_d770dadde395ec899f91f72ade4465606cac5978.jar" />
+    </item>
+
+</items>
